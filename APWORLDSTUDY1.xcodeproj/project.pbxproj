@@ -7,6 +7,74 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E472A991B26966200BB9881 /* Adam_Smith_The_Muir_portrait.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472A971B26966200BB9881 /* Adam_Smith_The_Muir_portrait.jpg */; };
+		9E472A9A1B26966200BB9881 /* Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472A981B26966200BB9881 /* Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg */; };
+		9E472A9C1B26966B00BB9881 /* Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472A9B1B26966B00BB9881 /* Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg */; };
+		9E472AAC1B26967C00BB9881 /* Bifaz_de_Atapuerca_(TG10).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472A9D1B26967C00BB9881 /* Bifaz_de_Atapuerca_(TG10).jpg */; };
+		9E472AAD1B26967C00BB9881 /* Birth_of_Laozi.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E472A9E1B26967C00BB9881 /* Birth_of_Laozi.png */; };
+		9E472AAE1B26967C00BB9881 /* Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472A9F1B26967C00BB9881 /* Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg */; };
+		9E472AAF1B26967C00BB9881 /* Caravela_de_armada_of_Joao_Serrao.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA01B26967C00BB9881 /* Caravela_de_armada_of_Joao_Serrao.jpg */; };
+		9E472AB01B26967C00BB9881 /* caste-system.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA11B26967C00BB9881 /* caste-system.jpg */; };
+		9E472AB21B26967C00BB9881 /* Commodore_Matthew_Calbraith_Perry.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA31B26967C00BB9881 /* Commodore_Matthew_Calbraith_Perry.png */; };
+		9E472AB31B26967C00BB9881 /* Confucius_Tang_Dynasty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA41B26967C00BB9881 /* Confucius_Tang_Dynasty.jpg */; };
+		9E472AB41B26967C00BB9881 /* Constantine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA51B26967C00BB9881 /* Constantine.jpg */; };
+		9E472AB51B26967C00BB9881 /* Egyptian_Domesticated_Animals.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA61B26967C00BB9881 /* Egyptian_Domesticated_Animals.jpg */; };
+		9E472AB61B26967C00BB9881 /* Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA71B26967C00BB9881 /* Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg */; };
+		9E472AB71B26967C00BB9881 /* Gagarin_in_Sweden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA81B26967C00BB9881 /* Gagarin_in_Sweden.jpg */; };
+		9E472AB81B26967C00BB9881 /* Gandhara_Buddha_(tnm).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AA91B26967C00BB9881 /* Gandhara_Buddha_(tnm).jpeg */; };
+		9E472AB91B26967C00BB9881 /* hammurabi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AAA1B26967C00BB9881 /* hammurabi.jpg */; };
+		9E472ABA1B26967C00BB9881 /* hittites.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AAB1B26967C00BB9881 /* hittites.jpg */; };
+		9E472ACA1B26968C00BB9881 /* Jarai_tomb_(guardian_spirit_sculpture).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ABB1B26968C00BB9881 /* Jarai_tomb_(guardian_spirit_sculpture).jpg */; };
+		9E472ACB1B26968C00BB9881 /* judaism.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ABC1B26968C00BB9881 /* judaism.jpg */; };
+		9E472ACC1B26968C00BB9881 /* KageraRuvubu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ABD1B26968C00BB9881 /* KageraRuvubu.jpg */; };
+		9E472ACD1B26968C00BB9881 /* Letter_Luenna_Louvre_AO4238.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ABE1B26968C00BB9881 /* Letter_Luenna_Louvre_AO4238.jpg */; };
+		9E472ACE1B26968C00BB9881 /* Maler_der_Grabkammer_des_Sennudem_001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ABF1B26968C00BB9881 /* Maler_der_Grabkammer_des_Sennudem_001.jpg */; };
+		9E472ACF1B26968C00BB9881 /* Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC01B26968C00BB9881 /* Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png */; };
+		9E472AD01B26968C00BB9881 /* Mongol_Empire_map.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC11B26968C00BB9881 /* Mongol_Empire_map.png */; };
+		9E472AD11B26968C00BB9881 /* olmechead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC21B26968C00BB9881 /* olmechead.jpg */; };
+		9E472AD21B26968C00BB9881 /* oraclebones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC31B26968C00BB9881 /* oraclebones.jpg */; };
+		9E472AD31B26968C00BB9881 /* Phoenician_alphabet.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC41B26968C00BB9881 /* Phoenician_alphabet.png */; };
+		9E472AD41B26968C00BB9881 /* Pont_du_Gard_Oct_2007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC51B26968C00BB9881 /* Pont_du_Gard_Oct_2007.jpg */; };
+		9E472AD51B26968C00BB9881 /* Qinshihuang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC61B26968C00BB9881 /* Qinshihuang.jpg */; };
+		9E472AD61B26968C00BB9881 /* Rome-Capitole-StatueConstantin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC71B26968C00BB9881 /* Rome-Capitole-StatueConstantin.jpg */; };
+		9E472AD71B26968C00BB9881 /* Sanchi_Stupa_from_Eastern_gate,_Madhya_Pradesh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC81B26968C00BB9881 /* Sanchi_Stupa_from_Eastern_gate,_Madhya_Pradesh.jpg */; };
+		9E472AD81B26968C00BB9881 /* Shiva_Bangalore.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AC91B26968C00BB9881 /* Shiva_Bangalore.jpg */; };
+		9E472ADB1B26969700BB9881 /* StJohnsAshfield_StainedGlass_GoodShepherd_Portrait.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AD91B26969700BB9881 /* StJohnsAshfield_StainedGlass_GoodShepherd_Portrait.jpg */; };
+		9E472ADC1B26969700BB9881 /* Tlatelolco_Marketplace.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ADA1B26969700BB9881 /* Tlatelolco_Marketplace.jpeg */; };
+		9E472AE01B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ADD1B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto.jpg */; };
+		9E472AE11B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ADE1B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto1.jpg */; };
+		9E472AE21B2696A000BB9881 /* tumblr_m8izjjCsAb1qa944oo1_1280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472ADF1B2696A000BB9881 /* tumblr_m8izjjCsAb1qa944oo1_1280.jpg */; };
+		9E472AE41B2696AA00BB9881 /* Wien_NHM_Venus_von_Willendorf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E472AE31B2696AA00BB9881 /* Wien_NHM_Venus_von_Willendorf.jpg */; };
+		9E472AEC1B26970200BB9881 /* SignIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AE51B26970200BB9881 /* SignIn.swift */; };
+		9E472AED1B26970200BB9881 /* SinglePlayerFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AE61B26970200BB9881 /* SinglePlayerFive.swift */; };
+		9E472AEE1B26970200BB9881 /* SinglePlayerFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AE71B26970200BB9881 /* SinglePlayerFour.swift */; };
+		9E472AEF1B26970200BB9881 /* SinglePlayerOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AE81B26970200BB9881 /* SinglePlayerOne.swift */; };
+		9E472AF01B26970200BB9881 /* SinglePlayerSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AE91B26970200BB9881 /* SinglePlayerSix.swift */; };
+		9E472AF11B26970200BB9881 /* SinglePlayerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AEA1B26970200BB9881 /* SinglePlayerThree.swift */; };
+		9E472AF21B26970200BB9881 /* SinglePlayerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E472AEB1B26970200BB9881 /* SinglePlayerTwo.swift */; };
+		9E84E0251B35F6D500DDD447 /* Marco_Polo_portrait.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0241B35F6D500DDD447 /* Marco_Polo_portrait.jpg */; };
+		9E84E0291B35FA0D00DDD447 /* YuanEmperorAlbumGenghisPortrait.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0281B35FA0D00DDD447 /* YuanEmperorAlbumGenghisPortrait.jpg */; };
+		9E84E02B1B35FA7500DDD447 /* aztecempire.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E02A1B35FA7500DDD447 /* aztecempire.png */; };
+		9E84E02D1B35FAD800DDD447 /* Inca_Empire_South_America.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E02C1B35FAD800DDD447 /* Inca_Empire_South_America.png */; };
+		9E84E02F1B35FB2C00DDD447 /* Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E02E1B35FB2C00DDD447 /* Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg */; };
+		9E84E0311B35FBF100DDD447 /* Mohammad_adil-Rashidun-empire-at-its-peak-close.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0301B35FBF100DDD447 /* Mohammad_adil-Rashidun-empire-at-its-peak-close.png */; };
+		9E84E0331B35FDD000DDD447 /* Taj_Mahal_in_March_2004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0321B35FDD000DDD447 /* Taj_Mahal_in_March_2004.jpg */; };
+		9E84E0351B35FDDB00DDD447 /* Great_Wave_off_Kanagawa2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0341B35FDDB00DDD447 /* Great_Wave_off_Kanagawa2.jpg */; };
+		9E84E0371B35FE1700DDD447 /* American_progress.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0361B35FE1700DDD447 /* American_progress.jpeg */; };
+		9E84E03B1B35FF9A00DDD447 /* Declaration_independence.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E03A1B35FF9A00DDD447 /* Declaration_independence.jpg */; };
+		9E84E03D1B36001D00DDD447 /* CroppedStalin1943.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E03C1B36001D00DDD447 /* CroppedStalin1943.jpg */; };
+		9E84E03F1B3601C100DDD447 /* 3514895311_2169a6f20d_o.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E03E1B3601C100DDD447 /* 3514895311_2169a6f20d_o.gif */; };
+		9E84E0411B36022400DDD447 /* Gandhi_South-Africa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0401B36022400DDD447 /* Gandhi_South-Africa.jpg */; };
+		9E84E0431B3602E800DDD447 /* Owens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0421B3602E800DDD447 /* Owens.jpg */; };
+		9E84E0451B36032C00DDD447 /* Tianasquare.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0441B36032C00DDD447 /* Tianasquare.jpg */; };
+		9E84E0471B3603D400DDD447 /* PopulationTrain_500px.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0461B3603D400DDD447 /* PopulationTrain_500px.jpg */; };
+		9E84E0491B36042500DDD447 /* map11.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E0481B36042500DDD447 /* map11.gif */; };
+		9E84E04B1B36048800DDD447 /* Nelson_Mandela-2008_(edit).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E84E04A1B36048800DDD447 /* Nelson_Mandela-2008_(edit).jpg */; };
+		9E8BD5941C7E9CD500B5713F /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8BD5931C7E9CD500B5713F /* Reachability.swift */; };
+		9ED1B24B1B363AD300986EA0 /* ibnBattuta.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED1B24A1B363AD300986EA0 /* ibnBattuta.png */; };
+		9ED1B24D1B363AF500986EA0 /* blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED1B24C1B363AF500986EA0 /* blank.png */; };
+		9EE9DD2B1B81473D002E605A /* Xuanzang_w.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9EE9DD2A1B81473D002E605A /* Xuanzang_w.jpg */; };
+		9EE9DD2D1B8148DC002E605A /* White_mans_burden_the_journal_detroit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9EE9DD2C1B8148DC002E605A /* White_mans_burden_the_journal_detroit.jpeg */; };
 		9EF77A041B269515004482C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF77A031B269515004482C9 /* AppDelegate.swift */; };
 		9EF77A061B269515004482C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF77A051B269515004482C9 /* ViewController.swift */; };
 		9EF77A091B269515004482C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EF77A071B269515004482C9 /* Main.storyboard */; };
@@ -26,6 +94,74 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9E472A971B26966200BB9881 /* Adam_Smith_The_Muir_portrait.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Adam_Smith_The_Muir_portrait.jpg; sourceTree = "<group>"; };
+		9E472A981B26966200BB9881 /* Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg; sourceTree = "<group>"; };
+		9E472A9B1B26966B00BB9881 /* Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg; sourceTree = "<group>"; };
+		9E472A9D1B26967C00BB9881 /* Bifaz_de_Atapuerca_(TG10).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bifaz_de_Atapuerca_(TG10).jpg"; sourceTree = "<group>"; };
+		9E472A9E1B26967C00BB9881 /* Birth_of_Laozi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Birth_of_Laozi.png; sourceTree = "<group>"; };
+		9E472A9F1B26967C00BB9881 /* Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg"; sourceTree = "<group>"; };
+		9E472AA01B26967C00BB9881 /* Caravela_de_armada_of_Joao_Serrao.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Caravela_de_armada_of_Joao_Serrao.jpg; sourceTree = "<group>"; };
+		9E472AA11B26967C00BB9881 /* caste-system.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "caste-system.jpg"; sourceTree = "<group>"; };
+		9E472AA31B26967C00BB9881 /* Commodore_Matthew_Calbraith_Perry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Commodore_Matthew_Calbraith_Perry.png; sourceTree = "<group>"; };
+		9E472AA41B26967C00BB9881 /* Confucius_Tang_Dynasty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Confucius_Tang_Dynasty.jpg; sourceTree = "<group>"; };
+		9E472AA51B26967C00BB9881 /* Constantine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Constantine.jpg; sourceTree = "<group>"; };
+		9E472AA61B26967C00BB9881 /* Egyptian_Domesticated_Animals.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Egyptian_Domesticated_Animals.jpg; sourceTree = "<group>"; };
+		9E472AA71B26967C00BB9881 /* Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg"; sourceTree = "<group>"; };
+		9E472AA81B26967C00BB9881 /* Gagarin_in_Sweden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gagarin_in_Sweden.jpg; sourceTree = "<group>"; };
+		9E472AA91B26967C00BB9881 /* Gandhara_Buddha_(tnm).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gandhara_Buddha_(tnm).jpeg"; sourceTree = "<group>"; };
+		9E472AAA1B26967C00BB9881 /* hammurabi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hammurabi.jpg; sourceTree = "<group>"; };
+		9E472AAB1B26967C00BB9881 /* hittites.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hittites.jpg; sourceTree = "<group>"; };
+		9E472ABB1B26968C00BB9881 /* Jarai_tomb_(guardian_spirit_sculpture).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jarai_tomb_(guardian_spirit_sculpture).jpg"; sourceTree = "<group>"; };
+		9E472ABC1B26968C00BB9881 /* judaism.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = judaism.jpg; sourceTree = "<group>"; };
+		9E472ABD1B26968C00BB9881 /* KageraRuvubu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = KageraRuvubu.jpg; sourceTree = "<group>"; };
+		9E472ABE1B26968C00BB9881 /* Letter_Luenna_Louvre_AO4238.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Letter_Luenna_Louvre_AO4238.jpg; sourceTree = "<group>"; };
+		9E472ABF1B26968C00BB9881 /* Maler_der_Grabkammer_des_Sennudem_001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Maler_der_Grabkammer_des_Sennudem_001.jpg; sourceTree = "<group>"; };
+		9E472AC01B26968C00BB9881 /* Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png"; sourceTree = "<group>"; };
+		9E472AC11B26968C00BB9881 /* Mongol_Empire_map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mongol_Empire_map.png; sourceTree = "<group>"; };
+		9E472AC21B26968C00BB9881 /* olmechead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = olmechead.jpg; sourceTree = "<group>"; };
+		9E472AC31B26968C00BB9881 /* oraclebones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oraclebones.jpg; sourceTree = "<group>"; };
+		9E472AC41B26968C00BB9881 /* Phoenician_alphabet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Phoenician_alphabet.png; sourceTree = "<group>"; };
+		9E472AC51B26968C00BB9881 /* Pont_du_Gard_Oct_2007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pont_du_Gard_Oct_2007.jpg; sourceTree = "<group>"; };
+		9E472AC61B26968C00BB9881 /* Qinshihuang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Qinshihuang.jpg; sourceTree = "<group>"; };
+		9E472AC71B26968C00BB9881 /* Rome-Capitole-StatueConstantin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rome-Capitole-StatueConstantin.jpg"; sourceTree = "<group>"; };
+		9E472AC81B26968C00BB9881 /* Sanchi_Stupa_from_Eastern_gate,_Madhya_Pradesh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sanchi_Stupa_from_Eastern_gate,_Madhya_Pradesh.jpg"; sourceTree = "<group>"; };
+		9E472AC91B26968C00BB9881 /* Shiva_Bangalore.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shiva_Bangalore.jpg; sourceTree = "<group>"; };
+		9E472AD91B26969700BB9881 /* StJohnsAshfield_StainedGlass_GoodShepherd_Portrait.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = StJohnsAshfield_StainedGlass_GoodShepherd_Portrait.jpg; sourceTree = "<group>"; };
+		9E472ADA1B26969700BB9881 /* Tlatelolco_Marketplace.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tlatelolco_Marketplace.jpeg; sourceTree = "<group>"; };
+		9E472ADD1B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Trilla_del_trigo_en_el_Antiguo_Egipto.jpg; sourceTree = "<group>"; };
+		9E472ADE1B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Trilla_del_trigo_en_el_Antiguo_Egipto1.jpg; sourceTree = "<group>"; };
+		9E472ADF1B2696A000BB9881 /* tumblr_m8izjjCsAb1qa944oo1_1280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tumblr_m8izjjCsAb1qa944oo1_1280.jpg; sourceTree = "<group>"; };
+		9E472AE31B2696AA00BB9881 /* Wien_NHM_Venus_von_Willendorf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wien_NHM_Venus_von_Willendorf.jpg; sourceTree = "<group>"; };
+		9E472AE51B26970200BB9881 /* SignIn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignIn.swift; sourceTree = "<group>"; };
+		9E472AE61B26970200BB9881 /* SinglePlayerFive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayerFive.swift; sourceTree = "<group>"; };
+		9E472AE71B26970200BB9881 /* SinglePlayerFour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayerFour.swift; sourceTree = "<group>"; };
+		9E472AE81B26970200BB9881 /* SinglePlayerOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayerOne.swift; sourceTree = "<group>"; };
+		9E472AE91B26970200BB9881 /* SinglePlayerSix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayerSix.swift; sourceTree = "<group>"; };
+		9E472AEA1B26970200BB9881 /* SinglePlayerThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayerThree.swift; sourceTree = "<group>"; };
+		9E472AEB1B26970200BB9881 /* SinglePlayerTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayerTwo.swift; sourceTree = "<group>"; };
+		9E84E0241B35F6D500DDD447 /* Marco_Polo_portrait.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Marco_Polo_portrait.jpg; sourceTree = "<group>"; };
+		9E84E0281B35FA0D00DDD447 /* YuanEmperorAlbumGenghisPortrait.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = YuanEmperorAlbumGenghisPortrait.jpg; sourceTree = "<group>"; };
+		9E84E02A1B35FA7500DDD447 /* aztecempire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aztecempire.png; sourceTree = "<group>"; };
+		9E84E02C1B35FAD800DDD447 /* Inca_Empire_South_America.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Inca_Empire_South_America.png; sourceTree = "<group>"; };
+		9E84E02E1B35FB2C00DDD447 /* Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg"; sourceTree = "<group>"; };
+		9E84E0301B35FBF100DDD447 /* Mohammad_adil-Rashidun-empire-at-its-peak-close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mohammad_adil-Rashidun-empire-at-its-peak-close.png"; sourceTree = "<group>"; };
+		9E84E0321B35FDD000DDD447 /* Taj_Mahal_in_March_2004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Taj_Mahal_in_March_2004.jpg; sourceTree = "<group>"; };
+		9E84E0341B35FDDB00DDD447 /* Great_Wave_off_Kanagawa2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Great_Wave_off_Kanagawa2.jpg; sourceTree = "<group>"; };
+		9E84E0361B35FE1700DDD447 /* American_progress.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = American_progress.jpeg; sourceTree = "<group>"; };
+		9E84E03A1B35FF9A00DDD447 /* Declaration_independence.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Declaration_independence.jpg; sourceTree = "<group>"; };
+		9E84E03C1B36001D00DDD447 /* CroppedStalin1943.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CroppedStalin1943.jpg; sourceTree = "<group>"; };
+		9E84E03E1B3601C100DDD447 /* 3514895311_2169a6f20d_o.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3514895311_2169a6f20d_o.gif; sourceTree = "<group>"; };
+		9E84E0401B36022400DDD447 /* Gandhi_South-Africa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gandhi_South-Africa.jpg"; sourceTree = "<group>"; };
+		9E84E0421B3602E800DDD447 /* Owens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Owens.jpg; sourceTree = "<group>"; };
+		9E84E0441B36032C00DDD447 /* Tianasquare.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tianasquare.jpg; sourceTree = "<group>"; };
+		9E84E0461B3603D400DDD447 /* PopulationTrain_500px.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PopulationTrain_500px.jpg; sourceTree = "<group>"; };
+		9E84E0481B36042500DDD447 /* map11.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = map11.gif; sourceTree = "<group>"; };
+		9E84E04A1B36048800DDD447 /* Nelson_Mandela-2008_(edit).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Nelson_Mandela-2008_(edit).jpg"; sourceTree = "<group>"; };
+		9E8BD5931C7E9CD500B5713F /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		9ED1B24A1B363AD300986EA0 /* ibnBattuta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ibnBattuta.png; sourceTree = "<group>"; };
+		9ED1B24C1B363AF500986EA0 /* blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blank.png; sourceTree = "<group>"; };
+		9EE9DD2A1B81473D002E605A /* Xuanzang_w.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Xuanzang_w.jpg; sourceTree = "<group>"; };
+		9EE9DD2C1B8148DC002E605A /* White_mans_burden_the_journal_detroit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = White_mans_burden_the_journal_detroit.jpeg; sourceTree = "<group>"; };
 		9EF779FE1B269515004482C9 /* APWORLDSTUDY1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APWORLDSTUDY1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EF77A021B269515004482C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9EF77A031B269515004482C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +217,13 @@
 				9EF77A051B269515004482C9 /* ViewController.swift */,
 				9EF77A071B269515004482C9 /* Main.storyboard */,
 				9EF77A0A1B269515004482C9 /* Images.xcassets */,
+				9E472AE51B26970200BB9881 /* SignIn.swift */,
+				9E472AE61B26970200BB9881 /* SinglePlayerFive.swift */,
+				9E472AE71B26970200BB9881 /* SinglePlayerFour.swift */,
+				9E472AE81B26970200BB9881 /* SinglePlayerOne.swift */,
+				9E472AE91B26970200BB9881 /* SinglePlayerSix.swift */,
+				9E472AEA1B26970200BB9881 /* SinglePlayerThree.swift */,
+				9E472AEB1B26970200BB9881 /* SinglePlayerTwo.swift */,
 				9EF77A0C1B269515004482C9 /* LaunchScreen.xib */,
 				9EF77A011B269515004482C9 /* Supporting Files */,
 			);
@@ -90,7 +233,68 @@
 		9EF77A011B269515004482C9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9EE9DD2A1B81473D002E605A /* Xuanzang_w.jpg */,
+				9E84E04A1B36048800DDD447 /* Nelson_Mandela-2008_(edit).jpg */,
+				9ED1B24C1B363AF500986EA0 /* blank.png */,
+				9ED1B24A1B363AD300986EA0 /* ibnBattuta.png */,
+				9E84E0481B36042500DDD447 /* map11.gif */,
+				9EE9DD2C1B8148DC002E605A /* White_mans_burden_the_journal_detroit.jpeg */,
+				9E84E0461B3603D400DDD447 /* PopulationTrain_500px.jpg */,
+				9E84E0441B36032C00DDD447 /* Tianasquare.jpg */,
+				9E84E0401B36022400DDD447 /* Gandhi_South-Africa.jpg */,
+				9E84E0421B3602E800DDD447 /* Owens.jpg */,
+				9E84E03E1B3601C100DDD447 /* 3514895311_2169a6f20d_o.gif */,
+				9E84E03C1B36001D00DDD447 /* CroppedStalin1943.jpg */,
+				9E84E0361B35FE1700DDD447 /* American_progress.jpeg */,
+				9E84E0301B35FBF100DDD447 /* Mohammad_adil-Rashidun-empire-at-its-peak-close.png */,
+				9E84E03A1B35FF9A00DDD447 /* Declaration_independence.jpg */,
+				9E84E0341B35FDDB00DDD447 /* Great_Wave_off_Kanagawa2.jpg */,
+				9E84E0321B35FDD000DDD447 /* Taj_Mahal_in_March_2004.jpg */,
+				9E84E02C1B35FAD800DDD447 /* Inca_Empire_South_America.png */,
+				9E84E02E1B35FB2C00DDD447 /* Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg */,
+				9E84E02A1B35FA7500DDD447 /* aztecempire.png */,
+				9E472A9B1B26966B00BB9881 /* Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg */,
+				9E84E0281B35FA0D00DDD447 /* YuanEmperorAlbumGenghisPortrait.jpg */,
+				9E84E0241B35F6D500DDD447 /* Marco_Polo_portrait.jpg */,
+				9E472A971B26966200BB9881 /* Adam_Smith_The_Muir_portrait.jpg */,
+				9E472A981B26966200BB9881 /* Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg */,
+				9E472A9D1B26967C00BB9881 /* Bifaz_de_Atapuerca_(TG10).jpg */,
+				9E472A9E1B26967C00BB9881 /* Birth_of_Laozi.png */,
+				9E472A9F1B26967C00BB9881 /* Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg */,
+				9E472AA01B26967C00BB9881 /* Caravela_de_armada_of_Joao_Serrao.jpg */,
+				9E472AA11B26967C00BB9881 /* caste-system.jpg */,
+				9E472AE31B2696AA00BB9881 /* Wien_NHM_Venus_von_Willendorf.jpg */,
+				9E472AA31B26967C00BB9881 /* Commodore_Matthew_Calbraith_Perry.png */,
+				9E472AA41B26967C00BB9881 /* Confucius_Tang_Dynasty.jpg */,
+				9E472ADD1B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto.jpg */,
+				9E472ADE1B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto1.jpg */,
+				9E472ADF1B2696A000BB9881 /* tumblr_m8izjjCsAb1qa944oo1_1280.jpg */,
+				9E472ABB1B26968C00BB9881 /* Jarai_tomb_(guardian_spirit_sculpture).jpg */,
+				9E472ABC1B26968C00BB9881 /* judaism.jpg */,
+				9E472ABD1B26968C00BB9881 /* KageraRuvubu.jpg */,
+				9E472ABE1B26968C00BB9881 /* Letter_Luenna_Louvre_AO4238.jpg */,
+				9E472ABF1B26968C00BB9881 /* Maler_der_Grabkammer_des_Sennudem_001.jpg */,
+				9E472AD91B26969700BB9881 /* StJohnsAshfield_StainedGlass_GoodShepherd_Portrait.jpg */,
+				9E472ADA1B26969700BB9881 /* Tlatelolco_Marketplace.jpeg */,
+				9E472AC01B26968C00BB9881 /* Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png */,
+				9E472AC11B26968C00BB9881 /* Mongol_Empire_map.png */,
+				9E472AC21B26968C00BB9881 /* olmechead.jpg */,
+				9E472AC31B26968C00BB9881 /* oraclebones.jpg */,
+				9E472AC41B26968C00BB9881 /* Phoenician_alphabet.png */,
+				9E472AC51B26968C00BB9881 /* Pont_du_Gard_Oct_2007.jpg */,
+				9E472AC61B26968C00BB9881 /* Qinshihuang.jpg */,
+				9E472AC71B26968C00BB9881 /* Rome-Capitole-StatueConstantin.jpg */,
+				9E472AC81B26968C00BB9881 /* Sanchi_Stupa_from_Eastern_gate,_Madhya_Pradesh.jpg */,
+				9E472AC91B26968C00BB9881 /* Shiva_Bangalore.jpg */,
+				9E472AA51B26967C00BB9881 /* Constantine.jpg */,
+				9E472AA61B26967C00BB9881 /* Egyptian_Domesticated_Animals.jpg */,
+				9E472AA71B26967C00BB9881 /* Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg */,
+				9E472AA81B26967C00BB9881 /* Gagarin_in_Sweden.jpg */,
+				9E472AA91B26967C00BB9881 /* Gandhara_Buddha_(tnm).jpeg */,
+				9E472AAA1B26967C00BB9881 /* hammurabi.jpg */,
+				9E472AAB1B26967C00BB9881 /* hittites.jpg */,
 				9EF77A021B269515004482C9 /* Info.plist */,
+				9E8BD5931C7E9CD500B5713F /* Reachability.swift */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -156,14 +360,18 @@
 		9EF779F61B269515004482C9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = RoshWare;
 				TargetAttributes = {
 					9EF779FD1B269515004482C9 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = F45Y8543EK;
+						LastSwiftMigration = 0830;
 					};
 					9EF77A121B269515004482C9 = {
 						CreatedOnToolsVersion = 6.3;
+						LastSwiftMigration = 0830;
 						TestTargetID = 9EF779FD1B269515004482C9;
 					};
 				};
@@ -192,9 +400,69 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EE9DD2D1B8148DC002E605A /* White_mans_burden_the_journal_detroit.jpeg in Resources */,
+				9E472AD31B26968C00BB9881 /* Phoenician_alphabet.png in Resources */,
+				9E84E0471B3603D400DDD447 /* PopulationTrain_500px.jpg in Resources */,
+				9E472AAD1B26967C00BB9881 /* Birth_of_Laozi.png in Resources */,
+				9E84E0251B35F6D500DDD447 /* Marco_Polo_portrait.jpg in Resources */,
+				9E472A991B26966200BB9881 /* Adam_Smith_The_Muir_portrait.jpg in Resources */,
+				9E84E0411B36022400DDD447 /* Gandhi_South-Africa.jpg in Resources */,
+				9E84E0451B36032C00DDD447 /* Tianasquare.jpg in Resources */,
+				9E472AD81B26968C00BB9881 /* Shiva_Bangalore.jpg in Resources */,
+				9E472AE21B2696A000BB9881 /* tumblr_m8izjjCsAb1qa944oo1_1280.jpg in Resources */,
+				9E472AB81B26967C00BB9881 /* Gandhara_Buddha_(tnm).jpeg in Resources */,
+				9E472ABA1B26967C00BB9881 /* hittites.jpg in Resources */,
+				9E472ACE1B26968C00BB9881 /* Maler_der_Grabkammer_des_Sennudem_001.jpg in Resources */,
+				9E472AE41B2696AA00BB9881 /* Wien_NHM_Venus_von_Willendorf.jpg in Resources */,
 				9EF77A091B269515004482C9 /* Main.storyboard in Resources */,
+				9E84E0491B36042500DDD447 /* map11.gif in Resources */,
+				9E472AAE1B26967C00BB9881 /* Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg in Resources */,
+				9E472AE11B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto1.jpg in Resources */,
+				9E472AB41B26967C00BB9881 /* Constantine.jpg in Resources */,
+				9E472AD51B26968C00BB9881 /* Qinshihuang.jpg in Resources */,
+				9E472AB91B26967C00BB9881 /* hammurabi.jpg in Resources */,
+				9E472AB61B26967C00BB9881 /* Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg in Resources */,
+				9E472AD41B26968C00BB9881 /* Pont_du_Gard_Oct_2007.jpg in Resources */,
+				9E84E0291B35FA0D00DDD447 /* YuanEmperorAlbumGenghisPortrait.jpg in Resources */,
+				9E84E02F1B35FB2C00DDD447 /* Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg in Resources */,
+				9E84E04B1B36048800DDD447 /* Nelson_Mandela-2008_(edit).jpg in Resources */,
+				9E84E0311B35FBF100DDD447 /* Mohammad_adil-Rashidun-empire-at-its-peak-close.png in Resources */,
+				9E472AD11B26968C00BB9881 /* olmechead.jpg in Resources */,
+				9E84E0331B35FDD000DDD447 /* Taj_Mahal_in_March_2004.jpg in Resources */,
+				9E472AB31B26967C00BB9881 /* Confucius_Tang_Dynasty.jpg in Resources */,
+				9E472ADB1B26969700BB9881 /* StJohnsAshfield_StainedGlass_GoodShepherd_Portrait.jpg in Resources */,
+				9E472ACA1B26968C00BB9881 /* Jarai_tomb_(guardian_spirit_sculpture).jpg in Resources */,
+				9EE9DD2B1B81473D002E605A /* Xuanzang_w.jpg in Resources */,
+				9E472ACC1B26968C00BB9881 /* KageraRuvubu.jpg in Resources */,
+				9E472AD71B26968C00BB9881 /* Sanchi_Stupa_from_Eastern_gate,_Madhya_Pradesh.jpg in Resources */,
+				9ED1B24B1B363AD300986EA0 /* ibnBattuta.png in Resources */,
+				9E84E02D1B35FAD800DDD447 /* Inca_Empire_South_America.png in Resources */,
+				9E84E02B1B35FA7500DDD447 /* aztecempire.png in Resources */,
+				9E84E0371B35FE1700DDD447 /* American_progress.jpeg in Resources */,
+				9E84E0431B3602E800DDD447 /* Owens.jpg in Resources */,
+				9E84E03D1B36001D00DDD447 /* CroppedStalin1943.jpg in Resources */,
+				9E472AE01B2696A000BB9881 /* Trilla_del_trigo_en_el_Antiguo_Egipto.jpg in Resources */,
 				9EF77A0E1B269515004482C9 /* LaunchScreen.xib in Resources */,
+				9E472AD01B26968C00BB9881 /* Mongol_Empire_map.png in Resources */,
+				9E472AB71B26967C00BB9881 /* Gagarin_in_Sweden.jpg in Resources */,
+				9E472AAF1B26967C00BB9881 /* Caravela_de_armada_of_Joao_Serrao.jpg in Resources */,
+				9E472A9A1B26966200BB9881 /* Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg in Resources */,
+				9E472AD61B26968C00BB9881 /* Rome-Capitole-StatueConstantin.jpg in Resources */,
+				9ED1B24D1B363AF500986EA0 /* blank.png in Resources */,
+				9E472ACF1B26968C00BB9881 /* Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.png in Resources */,
+				9E472AAC1B26967C00BB9881 /* Bifaz_de_Atapuerca_(TG10).jpg in Resources */,
+				9E472AB21B26967C00BB9881 /* Commodore_Matthew_Calbraith_Perry.png in Resources */,
+				9E84E03B1B35FF9A00DDD447 /* Declaration_independence.jpg in Resources */,
 				9EF77A0B1B269515004482C9 /* Images.xcassets in Resources */,
+				9E472A9C1B26966B00BB9881 /* Astasahasrika_Prajnaparamita_Dharmacakra_Discourse.jpeg in Resources */,
+				9E472ADC1B26969700BB9881 /* Tlatelolco_Marketplace.jpeg in Resources */,
+				9E84E03F1B3601C100DDD447 /* 3514895311_2169a6f20d_o.gif in Resources */,
+				9E84E0351B35FDDB00DDD447 /* Great_Wave_off_Kanagawa2.jpg in Resources */,
+				9E472AD21B26968C00BB9881 /* oraclebones.jpg in Resources */,
+				9E472ACD1B26968C00BB9881 /* Letter_Luenna_Louvre_AO4238.jpg in Resources */,
+				9E472AB51B26967C00BB9881 /* Egyptian_Domesticated_Animals.jpg in Resources */,
+				9E472ACB1B26968C00BB9881 /* judaism.jpg in Resources */,
+				9E472AB01B26967C00BB9881 /* caste-system.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +481,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EF77A061B269515004482C9 /* ViewController.swift in Sources */,
+				9E472AF11B26970200BB9881 /* SinglePlayerThree.swift in Sources */,
+				9E472AEE1B26970200BB9881 /* SinglePlayerFour.swift in Sources */,
+				9E472AEC1B26970200BB9881 /* SignIn.swift in Sources */,
+				9E472AF01B26970200BB9881 /* SinglePlayerSix.swift in Sources */,
+				9E472AEF1B26970200BB9881 /* SinglePlayerOne.swift in Sources */,
+				9E472AF21B26970200BB9881 /* SinglePlayerTwo.swift in Sources */,
+				9E472AED1B26970200BB9881 /* SinglePlayerFive.swift in Sources */,
+				9E8BD5941C7E9CD500B5713F /* Reachability.swift in Sources */,
 				9EF77A041B269515004482C9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,9 +618,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = F45Y8543EK;
 				INFOPLIST_FILE = APWORLDSTUDY1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -352,9 +636,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = F45Y8543EK;
 				INFOPLIST_FILE = APWORLDSTUDY1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -373,6 +665,7 @@
 				INFOPLIST_FILE = APWORLDSTUDY1Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/APWORLDSTUDY1.app/APWORLDSTUDY1";
 			};
 			name = Debug;
@@ -388,6 +681,7 @@
 				INFOPLIST_FILE = APWORLDSTUDY1Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/APWORLDSTUDY1.app/APWORLDSTUDY1";
 			};
 			name = Release;
@@ -411,6 +705,7 @@
 				9EF77A1F1B269515004482C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9EF77A201B269515004482C9 /* Build configuration list for PBXNativeTarget "APWORLDSTUDY1Tests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +714,7 @@
 				9EF77A221B269515004482C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
