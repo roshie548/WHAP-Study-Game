@@ -10,14 +10,22 @@ import UIKit
 
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
     
+    var tableArray = [String] ()
     
     let pickerData = ["Select a Time Period","Time Period 1","Time Period 2", "Time Period 3","Time Period 4", "Time Period 5", "Time Period 6"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.periodPicker.dataSource = self;
-        self.periodPicker.delegate = self;
+        self.periodPicker.dataSource = self
+        self.periodPicker.delegate = self
+        SinglePlayerOne().parseJson()
+        SinglePlayerTwo().parseJson()
+        SinglePlayerThree().parseJson()
+        SinglePlayerFour().parseJson()
+        SinglePlayerFive().parseJson()
+        SinglePlayerSix().parseJson()
     }
+    
     
     override func viewDidAppear(_ animated: Bool) {
 //        if Reachability.isConnectedToNetwork() == true {

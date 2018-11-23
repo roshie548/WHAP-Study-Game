@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14105" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina5_9" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
-        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
-        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -41,7 +38,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KyO-2e-5lK">
-                                        <rect key="frame" x="170.66666666666666" y="297" width="35" height="42"/>
+                                        <rect key="frame" x="170" y="297" width="35" height="42"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="25"/>
                                         <state key="normal" title="Go">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -221,7 +218,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6Cn-1p-Gqm">
+                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6Cn-1p-Gqm">
                                 <rect key="frame" x="140" y="550" width="320" height="50"/>
                             </adBannerView>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ytu-Rh-wfY">
@@ -823,12 +820,6 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="iJf-Wb-53j">
-                                <rect key="frame" x="140" y="550" width="320" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="wpS-Jg-hCa"/>
-                                </constraints>
-                            </adBannerView>
                         </subviews>
                         <color key="backgroundColor" red="0.53378277566328081" green="0.76192436293413268" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -842,12 +833,10 @@
                             <constraint firstItem="QUa-vg-Xa8" firstAttribute="top" secondItem="4dA-hY-Ndv" secondAttribute="bottom" id="NTI-iT-Y2d"/>
                             <constraint firstItem="5hl-9j-T9c" firstAttribute="width" secondItem="HW0-mT-HpD" secondAttribute="width" id="Nol-SK-lqn"/>
                             <constraint firstItem="CX7-Lg-lFG" firstAttribute="width" secondItem="HW0-mT-HpD" secondAttribute="width" id="QoX-bc-bEx"/>
-                            <constraint firstItem="QUa-vg-Xa8" firstAttribute="top" secondItem="iJf-Wb-53j" secondAttribute="bottom" id="SyZ-lj-YAj"/>
                             <constraint firstItem="CX7-Lg-lFG" firstAttribute="top" secondItem="opx-Qd-ODg" secondAttribute="bottom" id="Wyy-Hg-oKH"/>
                             <constraint firstAttribute="trailing" secondItem="5hl-9j-T9c" secondAttribute="trailing" id="bAe-al-7pg"/>
                             <constraint firstItem="4dA-hY-Ndv" firstAttribute="top" secondItem="5hl-9j-T9c" secondAttribute="bottom" id="f8r-nw-GpB"/>
                             <constraint firstItem="CX7-Lg-lFG" firstAttribute="top" secondItem="opx-Qd-ODg" secondAttribute="bottom" id="jQc-Lc-UfM"/>
-                            <constraint firstAttribute="centerX" secondItem="iJf-Wb-53j" secondAttribute="centerX" id="nei-VZ-oCx"/>
                             <constraint firstItem="4dA-hY-Ndv" firstAttribute="height" secondItem="5hl-9j-T9c" secondAttribute="height" id="vva-mE-O3a"/>
                         </constraints>
                         <variation key="default">
@@ -858,7 +847,6 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="Banner" destination="iJf-Wb-53j" id="yOh-eM-Ftc"/>
                         <outlet property="answerbox1" destination="Wb5-rO-s0a" id="ZIj-JC-5fg"/>
                         <outlet property="answerbox2" destination="DBT-S8-Tpv" id="sJm-OM-b8g"/>
                         <outlet property="answerbox3" destination="q2H-0j-Lxi" id="XwT-hY-2MN"/>
@@ -1107,18 +1095,11 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RLS-qR-qGv">
-                                <rect key="frame" x="140" y="550" width="320" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="PSr-EW-otM"/>
-                                </constraints>
-                            </adBannerView>
                         </subviews>
                         <color key="backgroundColor" red="0.53378277569999999" green="0.76192436289999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="1gs-Fg-02I" firstAttribute="width" secondItem="z7n-U5-2De" secondAttribute="width" id="9eF-it-9Xd"/>
                             <constraint firstItem="B8w-g8-e3Z" firstAttribute="top" secondItem="1gs-Fg-02I" secondAttribute="bottom" id="Afc-qt-jYR"/>
-                            <constraint firstAttribute="centerX" secondItem="RLS-qR-qGv" secondAttribute="centerX" id="FXa-ul-EfT"/>
                             <constraint firstItem="B8w-g8-e3Z" firstAttribute="width" secondItem="z7n-U5-2De" secondAttribute="width" id="JIf-83-bOK"/>
                             <constraint firstItem="1gs-Fg-02I" firstAttribute="top" secondItem="hi1-Lu-NcR" secondAttribute="bottom" id="OpM-CK-OTj"/>
                             <constraint firstAttribute="width" secondItem="1gs-Fg-02I" secondAttribute="height" multiplier="150:11" id="RAk-9I-I0U"/>
@@ -1132,7 +1113,6 @@
                             <constraint firstAttribute="centerX" secondItem="1gs-Fg-02I" secondAttribute="centerX" id="qcf-Yl-yrp"/>
                             <constraint firstItem="1gs-Fg-02I" firstAttribute="top" secondItem="hi1-Lu-NcR" secondAttribute="bottom" id="taA-M8-V03"/>
                             <constraint firstAttribute="trailing" secondItem="B8w-g8-e3Z" secondAttribute="trailing" id="twx-u4-xHm"/>
-                            <constraint firstItem="fUq-TE-5Py" firstAttribute="top" secondItem="RLS-qR-qGv" secondAttribute="bottom" id="wxl-rp-vbD"/>
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
@@ -1142,7 +1122,6 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="Banner" destination="RLS-qR-qGv" id="uRH-Po-ehB"/>
                         <outlet property="answerbox1" destination="anY-I6-YCV" id="0R1-ch-JKN"/>
                         <outlet property="answerbox2" destination="ieq-if-h4w" id="d0r-yd-IeY"/>
                         <outlet property="answerbox3" destination="FYP-Hc-ooa" id="dyc-28-azv"/>
@@ -1189,7 +1168,7 @@
                                         <barButtonItem key="rightBarButtonItem" title="Next" id="X3H-fw-HZY">
                                             <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <connections>
-                                                <action selector="nextQuestion:" destination="BUN-fD-dBF" id="ieN-FI-Hi3"/>
+                                                <action selector="nextQuestion:" destination="BUN-fD-dBF" id="ziJ-k5-8Pm"/>
                                             </connections>
                                         </barButtonItem>
                                     </navigationItem>
@@ -1387,12 +1366,6 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="EtB-Ub-m0K">
-                                <rect key="frame" x="140" y="550" width="320" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="pUW-t1-9GQ"/>
-                                </constraints>
-                            </adBannerView>
                         </subviews>
                         <color key="backgroundColor" red="0.53378277569999999" green="0.76192436289999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -1400,13 +1373,11 @@
                             <constraint firstItem="Fd4-T4-LUh" firstAttribute="top" secondItem="z0w-aj-Dwh" secondAttribute="bottom" id="8dD-i3-zYV"/>
                             <constraint firstItem="Fd4-T4-LUh" firstAttribute="top" secondItem="z0w-aj-Dwh" secondAttribute="bottom" id="9g5-AC-BY5"/>
                             <constraint firstAttribute="trailing" secondItem="Xy1-KG-Ryn" secondAttribute="trailing" id="GOA-jQ-DGm"/>
-                            <constraint firstItem="Lpi-PP-rd0" firstAttribute="top" secondItem="EtB-Ub-m0K" secondAttribute="bottom" id="K7L-Ma-slc"/>
                             <constraint firstItem="Xy1-KG-Ryn" firstAttribute="leading" secondItem="M1J-rt-aQb" secondAttribute="leading" id="S24-Hl-GIZ"/>
                             <constraint firstItem="Xy1-KG-Ryn" firstAttribute="width" secondItem="M1J-rt-aQb" secondAttribute="width" id="Sxd-uG-ujz"/>
                             <constraint firstItem="4MD-a4-Ixi" firstAttribute="height" secondItem="Xy1-KG-Ryn" secondAttribute="height" id="Xub-Cn-7bj"/>
                             <constraint firstItem="4MD-a4-Ixi" firstAttribute="top" secondItem="Xy1-KG-Ryn" secondAttribute="bottom" id="d63-xA-cy7"/>
                             <constraint firstItem="4MD-a4-Ixi" firstAttribute="width" secondItem="M1J-rt-aQb" secondAttribute="width" id="f0o-Sq-X2a"/>
-                            <constraint firstAttribute="centerX" secondItem="EtB-Ub-m0K" secondAttribute="centerX" id="igj-rn-2LR"/>
                             <constraint firstAttribute="trailing" secondItem="4MD-a4-Ixi" secondAttribute="trailing" id="o3u-0p-hey"/>
                             <constraint firstItem="Fd4-T4-LUh" firstAttribute="width" secondItem="M1J-rt-aQb" secondAttribute="width" id="oYf-P9-OYd"/>
                             <constraint firstItem="Lpi-PP-rd0" firstAttribute="top" secondItem="4MD-a4-Ixi" secondAttribute="bottom" id="r6l-lO-Lmk"/>
@@ -1422,7 +1393,6 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="Banner" destination="EtB-Ub-m0K" id="HUs-rx-jQ7"/>
                         <outlet property="answerbox1" destination="HLs-LQ-QhM" id="zx0-MA-GR4"/>
                         <outlet property="answerbox2" destination="xgG-Y2-BAf" id="hLA-Hs-bqt"/>
                         <outlet property="answerbox3" destination="0GZ-f8-vxr" id="nQZ-uO-44A"/>
@@ -1666,18 +1636,11 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DUU-C7-7Gf">
-                                <rect key="frame" x="140" y="550" width="320" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="Ou1-em-dtw"/>
-                                </constraints>
-                            </adBannerView>
                         </subviews>
                         <color key="backgroundColor" red="0.53378277569999999" green="0.76192436289999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="sN9-lR-S6Q" secondAttribute="trailing" id="19u-03-MGq"/>
                             <constraint firstItem="sN9-lR-S6Q" firstAttribute="leading" secondItem="MV7-0p-Xmd" secondAttribute="leading" id="2yr-gZ-tEo"/>
-                            <constraint firstItem="QUn-wt-X6c" firstAttribute="top" secondItem="DUU-C7-7Gf" secondAttribute="bottom" id="6Hd-EF-Ftj"/>
                             <constraint firstItem="Ep4-XQ-gdi" firstAttribute="leading" secondItem="MV7-0p-Xmd" secondAttribute="leading" id="70r-4J-tjT"/>
                             <constraint firstItem="tNH-d5-9nm" firstAttribute="top" secondItem="AO5-fg-ayl" secondAttribute="bottom" id="G2J-Bm-e07"/>
                             <constraint firstAttribute="centerX" secondItem="tNH-d5-9nm" secondAttribute="centerX" id="HU0-x7-yYe"/>
@@ -1690,7 +1653,6 @@
                             <constraint firstItem="tNH-d5-9nm" firstAttribute="top" secondItem="AO5-fg-ayl" secondAttribute="bottom" id="aNt-Hv-F5h"/>
                             <constraint firstItem="sN9-lR-S6Q" firstAttribute="top" secondItem="tNH-d5-9nm" secondAttribute="bottom" id="hSn-Qn-Y6S"/>
                             <constraint firstItem="Ep4-XQ-gdi" firstAttribute="width" secondItem="MV7-0p-Xmd" secondAttribute="width" id="mRt-la-d4N"/>
-                            <constraint firstAttribute="centerX" secondItem="DUU-C7-7Gf" secondAttribute="centerX" id="rCw-FT-uRn"/>
                             <constraint firstAttribute="trailing" secondItem="Ep4-XQ-gdi" secondAttribute="trailing" id="xOL-Hc-Z1S"/>
                         </constraints>
                         <variation key="default">
@@ -1701,7 +1663,6 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="Banner" destination="DUU-C7-7Gf" id="GJU-UN-xP0"/>
                         <outlet property="answerbox1" destination="EZe-Oy-grN" id="BbK-Ma-1o6"/>
                         <outlet property="answerbox2" destination="Vc7-bq-34J" id="ln0-vK-xkl"/>
                         <outlet property="answerbox3" destination="2A1-NS-efz" id="5ii-cY-xKB"/>
@@ -1945,12 +1906,6 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6q6-im-igo">
-                                <rect key="frame" x="140" y="550" width="320" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="xWO-f1-ptv"/>
-                                </constraints>
-                            </adBannerView>
                         </subviews>
                         <color key="backgroundColor" red="0.53378277569999999" green="0.76192436289999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -1965,9 +1920,7 @@
                             <constraint firstItem="4sI-k2-vzK" firstAttribute="top" secondItem="voj-om-h2R" secondAttribute="bottom" id="f1d-Hn-2Za"/>
                             <constraint firstItem="AaE-LA-wVg" firstAttribute="leading" secondItem="f9N-Zw-iaM" secondAttribute="leading" id="fZ5-6j-xEe"/>
                             <constraint firstItem="voj-om-h2R" firstAttribute="leading" secondItem="f9N-Zw-iaM" secondAttribute="leading" id="fr2-A9-hoI"/>
-                            <constraint firstAttribute="centerX" secondItem="6q6-im-igo" secondAttribute="centerX" id="jLU-hi-MFh"/>
                             <constraint firstItem="AaE-LA-wVg" firstAttribute="width" secondItem="f9N-Zw-iaM" secondAttribute="width" id="k2c-FG-xuK"/>
-                            <constraint firstItem="4sI-k2-vzK" firstAttribute="top" secondItem="6q6-im-igo" secondAttribute="bottom" id="krF-es-fIq"/>
                             <constraint firstItem="xfA-DJ-AMI" firstAttribute="width" secondItem="f9N-Zw-iaM" secondAttribute="width" id="lJm-s5-cj1"/>
                             <constraint firstAttribute="centerX" secondItem="xfA-DJ-AMI" secondAttribute="centerX" id="nku-FG-GvK"/>
                             <constraint firstItem="xfA-DJ-AMI" firstAttribute="top" secondItem="Aas-62-N40" secondAttribute="bottom" id="vGy-P2-ImR"/>
@@ -1980,7 +1933,6 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="Banner" destination="6q6-im-igo" id="VuQ-xI-O3Y"/>
                         <outlet property="answerbox1" destination="ByC-XH-QJy" id="nVP-wZ-e6d"/>
                         <outlet property="answerbox2" destination="CzX-Dp-mKR" id="sTM-SX-VuH"/>
                         <outlet property="answerbox3" destination="TOL-im-6aI" id="6lG-G9-hg6"/>
@@ -2226,12 +2178,6 @@
                                     </mask>
                                 </variation>
                             </view>
-                            <adBannerView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="oMB-yP-XvJ">
-                                <rect key="frame" x="140" y="550" width="320" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="e2A-uR-H5e"/>
-                                </constraints>
-                            </adBannerView>
                         </subviews>
                         <color key="backgroundColor" red="0.53378277569999999" green="0.76192436289999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -2248,8 +2194,6 @@
                             <constraint firstItem="meZ-jq-fyP" firstAttribute="width" secondItem="Jwb-9h-vOv" secondAttribute="width" id="Q8t-my-TQy"/>
                             <constraint firstItem="hIY-Ul-vAt" firstAttribute="leading" secondItem="Jwb-9h-vOv" secondAttribute="leading" id="X8K-Au-9Vi"/>
                             <constraint firstAttribute="centerX" secondItem="meZ-jq-fyP" secondAttribute="centerX" id="Zev-Pp-7g5"/>
-                            <constraint firstAttribute="centerX" secondItem="oMB-yP-XvJ" secondAttribute="centerX" id="dRQ-RF-KcZ"/>
-                            <constraint firstItem="8bu-27-VT2" firstAttribute="top" secondItem="oMB-yP-XvJ" secondAttribute="bottom" id="iRa-H2-bzv"/>
                             <constraint firstItem="fal-eT-gQC" firstAttribute="top" secondItem="meZ-jq-fyP" secondAttribute="bottom" id="qvB-Re-qTW"/>
                             <constraint firstItem="hIY-Ul-vAt" firstAttribute="height" secondItem="fal-eT-gQC" secondAttribute="height" id="tfp-L1-75P"/>
                         </constraints>
@@ -2261,7 +2205,6 @@
                         </variation>
                     </view>
                     <connections>
-                        <outlet property="Banner" destination="oMB-yP-XvJ" id="nvN-PW-r9b"/>
                         <outlet property="answerbox1" destination="MOt-aM-Qot" id="Xuq-LA-LfB"/>
                         <outlet property="answerbox2" destination="MN8-Tb-Yfw" id="FlJ-yX-Me8"/>
                         <outlet property="answerbox3" destination="3sJ-Dj-qqr" id="OqN-ir-dVU"/>
